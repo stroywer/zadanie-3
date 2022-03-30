@@ -1,0 +1,6 @@
+C:\Users\Никита.DESKTOP-CCHKJ4F\source\repos\WpfApp10\WpfApp10\obj\Debug\WpfApp10.csproj.AssemblyReference.cache
+C:\Users\Никита.DESKTOP-CCHKJ4F\source\repos\WpfApp10\WpfApp10\obj\Debug\MainWindow.g.cs
+C:\Users\Никита.DESKTOP-CCHKJ4F\source\repos\WpfApp10\WpfApp10\obj\Debug\Page\LoginPage.g.cs
+C:\Users\Никита.DESKTOP-CCHKJ4F\source\repos\WpfApp10\WpfApp10\obj\Debug\App.g.cs
+C:\Users\Никита.DESKTOP-CCHKJ4F\source\repos\WpfApp10\WpfApp10\obj\Debug\WpfApp10_MarkupCompile.cache
+C:\Users\Никита.DESKTOP-CCHKJ4F\source\repos\WpfApp10\WpfApp10\obj\Debug\WpfApp10_MarkupCompile.lref

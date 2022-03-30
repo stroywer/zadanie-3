@@ -1,0 +1,6 @@
+C:\Users\Никита.DESKTOP-CCHKJ4F\source\repos\WpfApp10\LoginServise\bin\Debug\LoginServise.dll
+C:\Users\Никита.DESKTOP-CCHKJ4F\source\repos\WpfApp10\LoginServise\bin\Debug\LoginServise.pdb
+C:\Users\Никита.DESKTOP-CCHKJ4F\source\repos\WpfApp10\LoginServise\obj\Debug\LoginServise.csproj.AssemblyReference.cache
+C:\Users\Никита.DESKTOP-CCHKJ4F\source\repos\WpfApp10\LoginServise\obj\Debug\LoginServise.csproj.CoreCompileInputs.cache
+C:\Users\Никита.DESKTOP-CCHKJ4F\source\repos\WpfApp10\LoginServise\obj\Debug\LoginServise.dll
+C:\Users\Никита.DESKTOP-CCHKJ4F\source\repos\WpfApp10\LoginServise\obj\Debug\LoginServise.pdb
